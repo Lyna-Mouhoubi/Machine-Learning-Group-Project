@@ -2,7 +2,7 @@ Introduction : Machine-Learning-Group-Project - Mental Ilness prediction
 
 A collaborative project showcasing data preprocessing, exploratory analysis, predictive modeling, and evaluation using Jupyter notebooks and Python scripts. Includes raw and processed datasets, reproducible workflows, and visualizations of results.
 
-This project explores the application of machine learning to real-world healthcare data in order to predict mental illness and substance use disorders. Using the 2019 Patient Characteristics Survey (PCS) dataset, we analyze demographic, social, and medical factors, apply data preprocessing and feature engineering, and evaluate multiple predictive models. 
+This project explores the application of machine learning to real-world healthcare data in order to predict mental illness. Using the 2019 Patient Characteristics Survey (PCS) dataset, we analyze demographic, social, and medical factors, apply data preprocessing and feature engineering, and evaluate multiple predictive models. 
 
 The work combines data analysis, model comparison, and web deployment to provide insights into mental health prediction and demonstrate practical machine learning workflows.
 
